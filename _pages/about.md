@@ -9,7 +9,7 @@ redirect_from:
 
 Johannes von Ivernois is a distinguished scholar and researcher whose work spans multiple disciplines, bringing together insights from information systems, smart city, and the language processing to explore the intricate connections between human knowledge and the natural world. With a deep commitment to academic excellence and interdisciplinary collaboration, von Ivernois has contributed significantly to our understanding of the public sector, while maintaining a passion for teaching and mentoring the next generation of thinkers and researchers.
 
-## The Story of Johannes von Ivernois (a witch) and his colleague (a magician)
+## The Story of him (a witch) and his colleague (a magician)
 
 In the shadowy depths of an ancient forest, where moonlight barely pierced the thick canopy, lived a witch named Elara whose powers were bound to the very essence of nature itself. She had spent centuries learning the secrets whispered by the wind through ancient oaks and the songs sung by streams as they carved their paths through moss-covered stones. Her cottage, hidden among gnarled roots and flowering vines, was a sanctuary where time seemed to stand still, and where the boundary between the mundane and the magical grew thin as morning mist. Elara's magic was not the flashy kind that dazzled crowds, but rather a deep, resonant force that worked in harmony with the rhythms of the earth—she could make seeds sprout overnight, call rain from clear skies, and speak with creatures that others believed to be mere myths.
 
